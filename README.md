@@ -8,5 +8,8 @@ Set this up when I got sick of using Hamachi as a *fake* `local area network` to
 Server is available at `0.tcp.ngrok.io:10143`
 
 ## User management
+The `.json`-files in the repository can be used to ban/whitelist people or IP addresses.
 
 ## Playability 
+
+Server specific restrictions to gameplay, game mode or changes to server settings is edited through the server.properties file. 
