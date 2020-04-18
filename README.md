@@ -6,6 +6,7 @@ Set this up when I got sick of using Hamachi as a *fake* `local area network` to
 
 ## Want to play with us?
 The ip for the server is refreshed quite often, so check in on https://shrouded-caverns-32037.herokuapp.com/ to see what the current one is.
+> Since it's hosted on Heroku- if nobody's used the link for an hour- the app is asleep. That'll cause it to load very slowly. Subsequent loads are significantly faster.
 
 ## User management
 The `.json`-files in the repository can be used to ban/whitelist people or IP addresses.
